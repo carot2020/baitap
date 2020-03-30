@@ -1,0 +1,11 @@
+D:\TAI_LIEU_KTLT\Lesson03\Lesson03\Exercise04\bin\Debug\netcoreapp3.1\Exercise04.exe
+D:\TAI_LIEU_KTLT\Lesson03\Lesson03\Exercise04\bin\Debug\netcoreapp3.1\Exercise04.deps.json
+D:\TAI_LIEU_KTLT\Lesson03\Lesson03\Exercise04\bin\Debug\netcoreapp3.1\Exercise04.runtimeconfig.json
+D:\TAI_LIEU_KTLT\Lesson03\Lesson03\Exercise04\bin\Debug\netcoreapp3.1\Exercise04.runtimeconfig.dev.json
+D:\TAI_LIEU_KTLT\Lesson03\Lesson03\Exercise04\bin\Debug\netcoreapp3.1\Exercise04.dll
+D:\TAI_LIEU_KTLT\Lesson03\Lesson03\Exercise04\bin\Debug\netcoreapp3.1\Exercise04.pdb
+D:\TAI_LIEU_KTLT\Lesson03\Lesson03\Exercise04\obj\Debug\netcoreapp3.1\Exercise04.csprojAssemblyReference.cache
+D:\TAI_LIEU_KTLT\Lesson03\Lesson03\Exercise04\obj\Debug\netcoreapp3.1\Exercise04.AssemblyInfoInputs.cache
+D:\TAI_LIEU_KTLT\Lesson03\Lesson03\Exercise04\obj\Debug\netcoreapp3.1\Exercise04.AssemblyInfo.cs
+D:\TAI_LIEU_KTLT\Lesson03\Lesson03\Exercise04\obj\Debug\netcoreapp3.1\Exercise04.dll
+D:\TAI_LIEU_KTLT\Lesson03\Lesson03\Exercise04\obj\Debug\netcoreapp3.1\Exercise04.pdb
